@@ -1,6 +1,6 @@
 # Task Manager API (FastAPI)
 
-A resume-ready Task Manager backend built with FastAPI + SQLModel + JWT auth.
+A Task Manager backend built with FastAPI + SQLModel + JWT auth.
 
 ## Features
 - User signup + login (JWT Bearer auth)
